@@ -2,7 +2,8 @@
 
 <!--
 **pratik-mk/pratik-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<b>Visitor count<b><br>
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frdunlocked18" alt="ProHit">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
