@@ -2,7 +2,7 @@
   <b>Visitor count<b><br>
   <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fpratik-mk" alt="ProHit">
 </p>  
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ### Hi there 👋
 Here are some ideas to get you started:
 
