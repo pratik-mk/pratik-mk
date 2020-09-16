@@ -35,13 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[website]: 
-[twitter]: https://twitter.com/dhoke_pratik
-[youtube]:
-[instagram]: https://instagram.com/pr4tik_dh0k3
-[linkedin]: https://linkedin.com/in/pratik-dhoke
-
+</br>
 
 
 <details>
@@ -50,4 +44,17 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratik-mk&show_icons=true&theme=gotham" alt="pratik-mk" />
 
 </details>
+
+
+
+[website]: 
+[twitter]: https://twitter.com/dhoke_pratik
+[youtube]: 
+[instagram]: https://instagram.com/pr4tik_dh0k3
+[linkedin]: https://linkedin.com/in/pratik-dhoke
+
+
+
+
+
 
