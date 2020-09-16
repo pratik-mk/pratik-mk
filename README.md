@@ -1,16 +1,14 @@
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-### Hi there 👋
 <p align="center"> 
   <b>Visitor count<b><br>
   <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fpratik-mk" alt="ProHit">
 </p>  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning Guitar
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: I am Human
+- 🌱 I’m currently learning everything
+- ⚡ Fun fact: I love to play guitar
 
 ### Languages and Tools:
 
